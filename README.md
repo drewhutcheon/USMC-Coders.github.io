@@ -1,4 +1,4 @@
-# This is Airmen Coders website repo
+# This is Marine Coders website repo
 
 We are a group of U.S. Marines who use code to improve the lives of our fellow Marines.
 
