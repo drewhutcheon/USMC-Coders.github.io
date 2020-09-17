@@ -20,5 +20,5 @@ We are a group of U.S. Marines who use code to improve the lives of our fellow M
 
 
 ## Have questions or want to join us?
-Join our chat team at https://chat.il2.dsop.io/signup_user_complete/?id=p65oraj9b3ysjgbxac7o7bn6fr !
+Join our chat team at [Marine Coders Chat](https://chat.il2.dsop.io/signup_user_complete/?id=p65oraj9b3ysjgbxac7o7bn6fr)!
 
